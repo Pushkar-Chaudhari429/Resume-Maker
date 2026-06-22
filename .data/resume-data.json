@@ -1,0 +1,87 @@
+{
+  "personalInfo": {
+    "fullName": "Pushkar Girish Chaudhari",
+    "email": "meet.pushkarchaudhari@gmail.com",
+    "phone": "+91 80877134",
+    "linkedin": "linkedin.com/in/pushkar-chaudhari",
+    "github": "github.com/pushkar-chaudhari",
+    "portfolio": "https://digitalheroesco.com",
+    "summary": ""
+  },
+  "education": [
+    {
+      "id": "edu-1782115429225",
+      "institution": "",
+      "degree": "",
+      "fieldOfStudy": "",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
+      "description": ""
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-1782116825131",
+      "company": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "current": true,
+      "description": ""
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1782116191378",
+      "title": "",
+      "description": "",
+      "technologies": "",
+      "link": "",
+      "role": "",
+      "githubLink": "",
+      "liveLink": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "id": "projects-1782116194136",
+      "title": "",
+      "description": "",
+      "technologies": "",
+      "link": "",
+      "role": "",
+      "githubLink": "",
+      "liveLink": "",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "skills": [
+    {
+      "id": "skill-1782115429226",
+      "category": "",
+      "name": "",
+      "level": "Expert"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "cert-1782115429226",
+      "name": "",
+      "issuer": "",
+      "date": "",
+      "link": ""
+    }
+  ],
+  "achievements": [
+    {
+      "id": "ach-1782115429226",
+      "title": "",
+      "date": "",
+      "issuer": "",
+      "description": ""
+    }
+  ],
+  "additionalContent": ""
+}

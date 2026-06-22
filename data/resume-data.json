@@ -1,0 +1,37 @@
+{
+  "personalInfo": {
+    "fullName": "Test User",
+    "email": "test@example.com",
+    "phone": "1234567890",
+    "linkedin": "",
+    "github": "",
+    "portfolio": "",
+    "summary": "A short test bio for validation."
+  },
+  "education": [],
+  "experience": [
+    {
+      "id": "exp-1",
+      "company": "Test Company",
+      "position": "Developer",
+      "startDate": "2020",
+      "endDate": "2021",
+      "current": false,
+      "description": "Worked on software development"
+    },
+    {
+      "id": "exp-1782108535659",
+      "company": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "current": false,
+      "description": ""
+    }
+  ],
+  "projects": [],
+  "skills": [],
+  "certifications": [],
+  "achievements": [],
+  "additionalContent": ""
+}
